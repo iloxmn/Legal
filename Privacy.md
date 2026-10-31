@@ -28,4 +28,4 @@ Audio playback, DSP processing, and AutoEQ calibration operate **100% offline**.
 If you supply your own API keys (e.g., for LLM translation services), they are stored locally on your machine and only transmitted directly to the designated endpoint.
 
 ### 5. Changes & Contact
-If you have any questions or feedback regarding this policy, please reach out via GitHub Issues or contact us at: **[your-email@domain.com]**.
+If you have any questions or feedback regarding this policy, please reach out via GitHub Issues or contact us at: **[tk_@live.com]**.
